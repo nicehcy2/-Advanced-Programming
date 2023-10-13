@@ -1,0 +1,42 @@
+﻿  Graph.cpp
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.cpp(56,26): warning C4244: '=': '_Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.cpp(57,26): warning C4244: '=': '_Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+  GUI.cpp
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(147,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(152,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(157,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(137): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(139): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>'에 대한 참조를 확인하세요.
+  HW3.cpp
+  main_test_3D.cpp
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(147,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(152,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(157,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(137): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(139): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>'에 대한 참조를 확인하세요.
+  Mesh.cpp
+  Scene.cpp
+  Window.cpp
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(147,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(152,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(157,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Window.cpp(59,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Window.cpp(61,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(137): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\GUI.h(139): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  CppProject03.vcxproj -> C:\Users\niceh\OneDrive\바탕 화면\허찬영\광운대02\고급프로그래밍\2021203034_3\CppProject03\CppProject03\Debug\CppProject03.exe

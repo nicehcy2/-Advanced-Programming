@@ -1,0 +1,15 @@
+﻿  Graph.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  GUI.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  HW3.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  main_test_3D.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  Mesh.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  Scene.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  Window.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\FL\x.H(37,14): fatal error C1083: 포함 파일을 열 수 없습니다. 'X11/Xlib.h': No such file or directory
+  코드를 생성하고 있습니다...
